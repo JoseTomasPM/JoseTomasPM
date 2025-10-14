@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Profile views](https://komarev.com/ghpvc/?username=JoseTomasPM)
+![Profile views](https://komarev.com/ghpvc/?username=JoseTomasPM&label=Visitas%20al%20perfil&color=0e75b6&style=flat)
+
 
 <!--
 **JoseTomasPM/JoseTomasPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
